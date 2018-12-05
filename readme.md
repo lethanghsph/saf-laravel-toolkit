@@ -41,6 +41,7 @@ Folder structure:
                 /Auth
             /Middleware
             /Requests
+            /ViewModels
             Kernel.php
 ```
 
